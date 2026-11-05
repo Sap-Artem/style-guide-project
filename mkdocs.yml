@@ -1,0 +1,17 @@
+site_name: Стайлгайд документации «ФинМетрика»
+repo_url: https://github.com/Sap-Artem/style-guide-project
+theme:
+  name: material
+  language: ru
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
+nav:
+  - Общие положения: index.md
+  - Стиль изложения: style.md
+  - Терминология и глоссарий: terminology.md
+  - Орфография, пунктуация и числа: spelling.md
+  - Разметка Markdown: markdown.md
+  - Элементы интерфейса: ui.md
+  - Шаблоны документов: templates.md
