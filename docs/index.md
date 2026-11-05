@@ -18,3 +18,4 @@
 - [Разметка Markdown](markdown.md)
 - [Элементы интерфейса](ui.md)
 - [Шаблоны документов](templates.md)
+- [Доступность текста](accessibility.md)
