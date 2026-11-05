@@ -1,0 +1,9 @@
+config:
+  default: true
+  MD013: false        # длина строки не ограничивается
+  MD007:
+    indent: 4         # вложенные списки — 4 пробела (правило MD-3)
+  MD046: false        # иначе содержимое блоков admonition считается кодом
+ignores:
+  - ".venv/**"
+  - "site/**"
